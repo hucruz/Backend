@@ -1,0 +1,92 @@
+header{
+  color: #FFF;
+  text-align: center;
+  font-size: 14px;
+  height: 20px;
+  background-color: #03ABED;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin-top: 25px;
+}
+
+#logo{
+  height: 20px;
+}
+
+a{
+  color: #EE0033;
+}
+
+a:hover{
+  color: yellow;
+}
+
+
+nav{
+  color: #FFF;
+  background-color: rgba(0,255,0, 0.8);
+  font-size: 12px;
+  text-align: center;
+  height: 15px;
+  width: 100%;
+  border: 1px black solid;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  position: fixed;
+}
+
+#counter{
+  width: 80%;
+  background-color: #F2f2f2;
+  color: #444;
+  text-align: center;
+  margin-left: 10%;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#resultado{
+  text-align: center;
+  width: 100%;
+}
+
+.fondo-rojo{
+  background-color: red;
+  font-size: 10px;
+}
+
+
+#mi-articulo{
+  font-size: 30px;
+  color: white;
+  background-color: green;
+}
+
+aside{
+  width: 30%;
+  height: 200px;
+  display: inline-block;
+  float: left;
+}
+
+section{
+  width: 70%;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  float: right;
+  height: 200px;
+}
+
+footer{
+  width: 100%;
+  margin-top: 10px;
+  display: inline-block;
+  text-align: center;
+}
